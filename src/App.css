@@ -28,6 +28,37 @@
   color: #61dafb;
 }
 
+
+.calCul{
+  width: 320px;
+  margin: 40px auto;
+}
+
+#shower{
+  background-color: #666970;
+  padding:10px ;
+  font-size: 35px;
+  width: 320px;
+height: 80px;
+text-align: right;
+border: 3px solid black;
+color: #ffffff;
+}
+.button{
+  background-color: #312f2f;
+  height: 80px;
+  width: 80px;
+  color: #ffffff;
+  font-size: 28px;
+  border: 1px solid black;
+
+}
+.button2{
+  width: 160px;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
